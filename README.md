@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @juliawabant
+- 👋 Hi,
 - 👀 I’m interested in Machine Learning, MLOps Best Practices and Data Engineering. 
-- 🌱 I’m currently learning Pentesting and Ethical hacking.
 - 💞️ I’m looking to collaborate on Open Education and more generally on open-source initiatives.
 - 📫 You can reach out on Linkedin https://www.linkedin.com/in/juliawabant/
 
